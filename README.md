@@ -34,6 +34,8 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
 ![](figures/uniswap_Arb_volume.png)
 
 ### Shannon Entropy
+#### Ethereum
+![](figures/uniswap_Eth_entropy.png)
 #### Polygon
 
 ![](figures/uniswap_polygon_entropy.png)
