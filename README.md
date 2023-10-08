@@ -26,7 +26,7 @@ Ethereum is a blockchain platform that enables the execution of smart contracts 
 Layer-2 solutions are protocols or technologies that are built on top of Layer-1 blockchains like Ethereum to improve scalability and reduce transaction costs. Optimism, Arbitrum, and Polygon are examples of Layer-2 solutions that aim to enhance Ethereum's performance.
 
 
-### Optimism
+#### Optimism
 
 **Introduction:**
 Optimism is a Layer-2 scaling solution for Ethereum, employing Optimistic Rollup technology to increase transaction throughput while reducing gas fees. It's EVM-compatible, making it easy for Ethereum developers to migrate their projects.
@@ -39,7 +39,7 @@ Optimism is a Layer-2 scaling solution for Ethereum, employing Optimistic Rollup
 - DeFi: DeFi platforms leverage Optimism for high transaction volumes and cost-efficiency.
 - Gaming: Online games and applications with quick, low-cost transactions find Optimism beneficial.
 
-### Arbitrum
+#### Arbitrum
 
 **Introduction:**
 Arbitrum is a Layer-2 Ethereum scaling solution using Optimistic Rollup. It enhances throughput and reduces latency, ensuring EVM compatibility for seamless project migration.
@@ -52,7 +52,7 @@ Arbitrum is a Layer-2 Ethereum scaling solution using Optimistic Rollup. It enha
 - DEXs: Decentralized exchanges leverage Arbitrum for smoother and cheaper trading.
 - NFT Marketplaces: Quick and efficient NFT transactions benefit from Arbitrum.
 
-### Polygon
+#### Polygon
 
 **Introduction:**
 Polygon offers multiple sidechains and PoS consensus to scale Ethereum. It fosters interoperability and accommodates various dApps, attracting developers and users alike.
