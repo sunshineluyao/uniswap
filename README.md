@@ -35,6 +35,9 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
 
 ### Nakamoto Index
 
+#### Polygon
+![](figures/uniswap_polygon_nakamoto.png)
+
 ### HHI Index
 #### Polygon
 ![](figures/uniswap_polygon_HHI.png)
