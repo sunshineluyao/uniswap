@@ -157,10 +157,10 @@ To calculate the HHI Index:
 2. Square each market share and sum the squared values:
 
    ```
-   HHI = (Market Share A^2) + (Market Share B^2) + (Market Share C^2)
+   $$HHI = (Market Share A^2) + (Market Share B^2) + (Market Share C^2)$$
    ```
 
-   Calculate HHI and then transform it as 2^HHI to get the HHI Index.
+   Calculate HHI and then transform it as $2^HHI$ to get the HHI Index.
 
 **Range:** The HHI Index ranges from 0 (perfect decentralization) to 10,000 (perfect centralization).
 
