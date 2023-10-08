@@ -1,6 +1,5 @@
 # Uniswap Transaction Analysis Repository
 
-![Uniswap Logo](uniswap_logo.png)
 
 Welcome to the Uniswap Transaction Analysis Repository! This repository provides data and code for replicability, allowing you to analyze transactions on Uniswap, a decentralized exchange protocol built on Ethereum. Gain insights into Uniswap's transaction history and its impact on the decentralized finance (DeFi) ecosystem.
 
