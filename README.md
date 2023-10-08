@@ -4,15 +4,31 @@
 Welcome to the Uniswap Transaction Analysis Repository! This repository provides data and code for replicability, allowing you to analyze transactions on Uniswap, a decentralized exchange protocol built on Ethereum. Gain insights into Uniswap's transaction history and its impact on the decentralized finance (DeFi) ecosystem.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Key Concepts](#key-concepts)
+- [Introduction](#Introduction)
+- [Illustrations](#Illustrations)
+- [Key Concepts](#Key-concepts)
 - [Measures](#Measures)
-- [Repository Structure](#repository-structure)
+- [Repository Structure](#Repository-structure)
 
 
 ## Introduction
 
 Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum blockchain. It enables users to swap various ERC-20 tokens without the need for a traditional order book, providing liquidity and facilitating DeFi transactions.
+
+## Illustrations
+
+### Transaction Volume
+
+- Polygon
+![]()
+
+### Shannon Entropy
+
+### Gini Index
+
+### Nakamoto Index
+
+## HHI Index
 
 ## Key Concepts
 
