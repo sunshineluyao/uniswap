@@ -17,41 +17,42 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
 
 ## Illustrations
 
-### Transaction Trend and Volume
+### Optimism Figures
 
-#### Ethereum
-![](figures/uniswap_Eth_transaction_trend.png)
-![](figures/uniswap_Eth_volume.png)
+![uniswap_Opt_volume](./figures/Optimism/uniswap_Opt_volume.png)
+![uniswap_Opt_gini](./figures/Optimism/uniswap_Opt_gini.png)
+![uniswap_Opt_transaction_trend](./figures/Optimism/uniswap_Opt_transaction_trend.png)
+![uniswap_Opt_nakamoto](./figures/Optimism/uniswap_Opt_nakamoto.png)
+![uniswap_Opt_HHI](./figures/Optimism/uniswap_Opt_HHI.png)
+![uniswap_Opt_entropy](./figures/Optimism/uniswap_Opt_entropy.png)
 
-#### Polygon
+### Arbitrum Figures
 
-![](figures/uniswap_polygon_volume_trend.png)
-![](figures/uniswap_polygon_volume.png)
+![uniswap_Arb_transaction_trend](./figures/Arbitrum/uniswap_Arb_transaction_trend.png)
+![uniswap_Arb_entropy](./figures/Arbitrum/uniswap_Arb_entropy.png)
+![uniswap_Arb_nakamoto](./figures/Arbitrum/uniswap_Arb_nakamoto.png)
+![uniswap_Arb_HHI](./figures/Arbitrum/uniswap_Arb_HHI.png)
+![uniswap_Arb_volume](./figures/Arbitrum/uniswap_Arb_volume.png)
+![uniswap_Arb_gini](./figures/Arbitrum/uniswap_Arb_gini.png)
 
+### Polygon Figures
 
-#### Arbitrium
-![](figures/uniswap_Arb_transaction_trend.png)
-![](figures/uniswap_Arb_volume.png)
+![uniswap_Eth_gini](./figures/Polygon/uniswap_Eth_gini.png)
+![uniswap_Eth_transaction_trend](./figures/Polygon/uniswap_Eth_transaction_trend.png)
+![uniswap_Eth_entropy](./figures/Polygon/uniswap_Eth_entropy.png)
+![uniswap_Eth_volume](./figures/Polygon/uniswap_Eth_volume.png)
+![uniswap_Eth_nakamoto](./figures/Polygon/uniswap_Eth_nakamoto.png)
+![uniswap_Eth_HHI](./figures/Polygon/uniswap_Eth_HHI.png)
 
-### Shannon Entropy
-#### Ethereum
-![](figures/uniswap_Eth_entropy.png)
-#### Polygon
+### Ethereum Figures
 
-![](figures/uniswap_polygon_entropy.png)
+![uniswap_Eth_gini](./figures/ethereum/uniswap_Eth_gini.png)
+![uniswap_Eth_transaction_trend](./figures/ethereum/uniswap_Eth_transaction_trend.png)
+![uniswap_Eth_entropy](./figures/ethereum/uniswap_Eth_entropy.png)
+![uniswap_Eth_volume](./figures/ethereum/uniswap_Eth_volume.png)
+![uniswap_Eth_nakamoto](./figures/ethereum/uniswap_Eth_nakamoto.png)
+![uniswap_Eth_HHI](./figures/ethereum/uniswap_Eth_HHI.png)
 
-### Gini Index
-#### Polygon
-![](figures/uniswap_polygon_gini.png)
-
-### Nakamoto Index
-
-#### Polygon
-![](figures/uniswap_polygon_nakamoto.png)
-
-### HHI Index
-#### Polygon
-![](figures/uniswap_polygon_HHI.png)
 
 ## Key Concepts
 
