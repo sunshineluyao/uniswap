@@ -81,7 +81,7 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
 </table>
 
 
-#### gini
+#### Gini
 
 <table>
     <tr>
@@ -104,8 +104,44 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
 
 
 #### HHI
+<table>
+    <tr>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_HHI.png" alt="Ethereum HHI">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_polygon_HHI.png" alt="uniswap_Polygon_HHI">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_HHI.png" alt="uniswap_Arb_HHI">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_HHI.png" alt="uniswap_Opt_HHI">
+        </td>
+    </tr>
+</table>
 
 #### Nakamoto
+<table>
+    <tr>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_nakamoto.png" alt="Ethereum Nakamoto">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_polygon_nakamoto.png" alt="uniswap_Polygon_nakamoto">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_nakamoto.png" alt="uniswap_Arb_nakamoto">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_nakamoto.png" alt="uniswap_Opt_nakamoto">
+        </td>
+    </tr>
+</table>
 
 
 
