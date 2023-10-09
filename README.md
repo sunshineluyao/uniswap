@@ -17,6 +17,42 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
 
 ## Illustrations
 
+### comparison
+#### trend
+<table>
+    <tr>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_transaction_trend.png" alt="Ethereum Transaction Trend">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_polygon_transaction_trend.png" alt="uniswap_Polygon_transaction_trend">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_transaction_trend.png" alt="uniswap_Arb_transaction_trend">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_transaction_trend.png" alt="uniswap_Opt_transaction_trend">
+        </td>
+    </tr>
+</table>
+
+#### volume
+
+#### entropy
+
+
+#### gini
+
+
+#### HHI
+
+#### Nakamoto
+
+
+
+
 ### Optimism Figures
 
 ![uniswap_Opt_volume](./figures/Optimism/uniswap_Opt_volume.png)
