@@ -59,10 +59,48 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
     </tr>
 </table>
 
-#### entropy
+#### Entropy
+
+<table>
+    <tr>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_entropy.png" alt="Ethereum Entropy">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_polygon_entropy.png" alt="uniswap_Polygon_entropy">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_entropy.png" alt="uniswap_Arb_entropy">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_entropy.png" alt="uniswap_Opt_entropy">
+        </td>
+    </tr>
+</table>
 
 
 #### gini
+
+<table>
+    <tr>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_gini.png" alt="Ethereum Gini">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_polygon_gini.png" alt="uniswap_Polygon_gini">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_gini.png" alt="uniswap_Arb_gini">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_gini.png" alt="uniswap_Opt_gini">
+        </td>
+    </tr>
+</table>
 
 
 #### HHI
