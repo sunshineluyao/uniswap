@@ -145,42 +145,114 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
 
 
 
-
 ### Optimism Figures
 
-![uniswap_Opt_volume](./figures/Optimism/uniswap_Opt_volume.png)
-![uniswap_Opt_gini](./figures/Optimism/uniswap_Opt_gini.png)
-![uniswap_Opt_transaction_trend](./figures/Optimism/uniswap_Opt_transaction_trend.png)
-![uniswap_Opt_nakamoto](./figures/Optimism/uniswap_Opt_nakamoto.png)
-![uniswap_Opt_HHI](./figures/Optimism/uniswap_Opt_HHI.png)
-![uniswap_Opt_entropy](./figures/Optimism/uniswap_Opt_entropy.png)
+<table>
+    <tr>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_entropy.png" alt="uniswap_Opt_entropy">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_gini.png" alt="uniswap_Opt_gini">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_HHI.png" alt="uniswap_Opt_HHI">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_nakamoto.png" alt="uniswap_Opt_nakamoto">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_transaction_trend.png" alt="uniswap_Opt_transaction_trend">
+        </td>
+        <td>
+            <img src="./figures/Optimism/uniswap_Opt_volume.png" alt="uniswap_Opt_volume">
+        </td>
+    </tr>
+</table>
 
 ### Arbitrum Figures
 
-![uniswap_Arb_transaction_trend](./figures/Arbitrum/uniswap_Arb_transaction_trend.png)
-![uniswap_Arb_entropy](./figures/Arbitrum/uniswap_Arb_entropy.png)
-![uniswap_Arb_nakamoto](./figures/Arbitrum/uniswap_Arb_nakamoto.png)
-![uniswap_Arb_HHI](./figures/Arbitrum/uniswap_Arb_HHI.png)
-![uniswap_Arb_volume](./figures/Arbitrum/uniswap_Arb_volume.png)
-![uniswap_Arb_gini](./figures/Arbitrum/uniswap_Arb_gini.png)
+<table>
+    <tr>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_entropy.png" alt="uniswap_Arb_entropy">
+        </td>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_gini.png" alt="uniswap_Arb_gini">
+        </td>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_HHI.png" alt="uniswap_Arb_HHI">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_nakamoto.png" alt="uniswap_Arb_nakamoto">
+        </td>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_transaction_trend.png" alt="uniswap_Arb_transaction_trend">
+        </td>
+        <td>
+            <img src="./figures/Arbitrum/uniswap_Arb_volume.png" alt="uniswap_Arb_volume">
+        </td>
+    </tr>
+</table>
 
 ### Polygon Figures
 
-![uniswap_Polygon_gini](./figures/Polygon/uniswap_polygon_gini.png)
-![uniswap_Polygon_transaction_trend](./figures/Polygon/uniswap_polygon_transaction_trend.png)
-![uniswap_Polygon_entropy](./figures/Polygon/uniswap_polygon_entropy.png)
-![uniswap_Polygon_volume](./figures/Polygon/uniswap_polygon_volume.png)
-![uniswap_Polygon_nakamoto](./figures/Polygon/uniswap_polygon_nakamoto.png)
-![uniswap_Polygon_HHI](./figures/Polygon/uniswap_polygon_HHI.png)
+<table>
+    <tr>
+        <td>
+            <img src="./figures/Polygon/uniswap_Polygon_entropy.png" alt="uniswap_Polygon_entropy">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_Polygon_gini.png" alt="uniswap_Polygon_gini">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_Polygon_HHI.png" alt="uniswap_Polygon_HHI">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/Polygon/uniswap_Polygon_nakamoto.png" alt="uniswap_Polygon_nakamoto">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_Polygon_transaction_trend.png" alt="uniswap_Polygon_transaction_trend">
+        </td>
+        <td>
+            <img src="./figures/Polygon/uniswap_Polygon_volume.png" alt="uniswap_Polygon_volume">
+        </td>
+    </tr>
+</table>
 
 ### Ethereum Figures
 
-![uniswap_Eth_gini](./figures/ethereum/uniswap_Eth_gini.png)
-![uniswap_Eth_transaction_trend](./figures/ethereum/uniswap_Eth_transaction_trend.png)
-![uniswap_Eth_entropy](./figures/ethereum/uniswap_Eth_entropy.png)
-![uniswap_Eth_volume](./figures/ethereum/uniswap_Eth_volume.png)
-![uniswap_Eth_nakamoto](./figures/ethereum/uniswap_Eth_nakamoto.png)
-![uniswap_Eth_HHI](./figures/ethereum/uniswap_Eth_HHI.png)
+<table>
+    <tr>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_entropy.png" alt="uniswap_Eth_entropy">
+        </td>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_gini.png" alt="uniswap_Eth_gini">
+        </td>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_HHI.png" alt="uniswap_Eth_HHI">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_nakamoto.png" alt="uniswap_Eth_nakamoto">
+        </td>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_transaction_trend.png" alt="uniswap_Eth_transaction_trend">
+        </td>
+        <td>
+            <img src="./figures/ethereum/uniswap_Eth_volume.png" alt="uniswap_Eth_volume">
+        </td>
+    </tr>
+</table>
+
 
 
 ## Key Concepts
