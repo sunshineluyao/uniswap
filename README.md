@@ -1,7 +1,7 @@
 # Uniswap Transaction Analysis Repository
 
 
-Welcome to the Uniswap Transaction Analysis Repository! This repository provides data and code for replicability, allowing you to analyze transactions on Uniswap, a decentralized exchange protocol built on Ethereum. Gain insights into Uniswap's transaction history and its impact on the decentralized finance (DeFi) ecosystem.
+Welcome to the Uniswap Transaction Analysis Repository! This repository provides data and code for replicability, allowing you to analyze transactions on Uniswap across multiple transaction networks, a decentralized exchange protocol built on Ethereum. Gain insights into Uniswap's transaction history and its impact on the decentralized finance (DeFi) ecosystem.
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -17,7 +17,9 @@ Uniswap is a leading decentralized exchange (DEX) protocol built on the Ethereum
 
 ## Illustrations
 
-### comparison
+#### The Time Range of Data Points
+[![](https://mermaid.ink/img/pako:eNptUctOwzAQ_BVrxTGpYjtOWt-QAicKiMcBlItJ3NRqY0eOqxKq_jubRohWsPJhNTsz-_ABKldrkNAoG0JpCUYwYavJy1qTex32zm-IW5FXa_q96iQpVFDkSdlGT-xaBX3rfKsCIW8Y8XIZF0Vpp2qvq2CcJXdq0D6mE3gT1trrXUuIVDQiLGE0TrI4mXIWUxZz-r8Dm8BHtx0aBH_1qGHJpX4kXn-Y4LHTWaM5Fv8SH7pgWtOfM-n4LpkQQatxV1PjyQ6jsgRcptUlSExr5TclRJhd9RXCaoTnSWmPKFS74J4HW4HEiXQEu248XWFU41X7A3bKgjzAJ8hUpLM5zwVlImM84yyLYAAp0nTGRMp5hsESyo8RfDmHBslMiHkucrHIeb7gPKUnu_dTcXLXtQnOL6cfr5xdmQaO3_qgkbM?type=png)](https://mermaid.live/edit#pako:eNptUctOwzAQ_BVrxTGpYjtOWt-QAicKiMcBlItJ3NRqY0eOqxKq_jubRohWsPJhNTsz-_ABKldrkNAoG0JpCUYwYavJy1qTex32zm-IW5FXa_q96iQpVFDkSdlGT-xaBX3rfKsCIW8Y8XIZF0Vpp2qvq2CcJXdq0D6mE3gT1trrXUuIVDQiLGE0TrI4mXIWUxZz-r8Dm8BHtx0aBH_1qGHJpX4kXn-Y4LHTWaM5Fv8SH7pgWtOfM-n4LpkQQatxV1PjyQ6jsgRcptUlSExr5TclRJhd9RXCaoTnSWmPKFS74J4HW4HEiXQEu248XWFU41X7A3bKgjzAJ8hUpLM5zwVlImM84yyLYAAp0nTGRMp5hsESyo8RfDmHBslMiHkucrHIeb7gPKUnu_dTcXLXtQnOL6cfr5xdmQaO3_qgkbM)
+
 #### trend
 <table>
     <tr>
