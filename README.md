@@ -1,4 +1,4 @@
-# Uniswap Transaction Analysis Repository
+# Uniswap Transaction Analysis Repository  [![DOI](https://zenodo.org/badge/701959391.svg)](https://zenodo.org/doi/10.5281/zenodo.10259602)
 *Replication Code and Data for: Uniswap Daily Transaction Indices by Network*
 
 
