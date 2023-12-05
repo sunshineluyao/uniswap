@@ -1,7 +1,13 @@
 # Uniswap Transaction Analysis Repository
 
+Welcome to the Uniswap Transaction Analysis Repository! This repository provides data and code for replicability, allowing you to analyze transactions on Uniswap across multiple transaction networks, a decentralized exchange protocol built on Ethereum. Gain insights into Uniswap's transaction history and its impact on the decentralized finance (DeFi) ecosystem. 
 
-Welcome to the Uniswap Transaction Analysis Repository! This repository provides data and code for replicability, allowing you to analyze transactions on Uniswap across multiple transaction networks, a decentralized exchange protocol built on Ethereum. Gain insights into Uniswap's transaction history and its impact on the decentralized finance (DeFi) ecosystem.
+Full datasets including raw files are available on Harvard Dataverse:
+
+<blockquote style="color: lightblue;">
+  Chemaya, Nir; Cong, Lin William; Jorgensen, Emma; Liu, Dingyue; Zhang, Luyao, 2023, "Replication Data for: Uniswap Daily Transaction Indices by Network", <a href="https://doi.org/10.7910/DVN/OSOR3P">https://doi.org/10.7910/DVN/OSOR3P</a>, Harvard Dataverse, V1
+</blockquote>
+
 
 ## Table of Contents
 - [Introduction](#Introduction)
