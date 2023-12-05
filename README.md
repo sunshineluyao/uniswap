@@ -1,4 +1,10 @@
 # Uniswap Transaction Analysis Repository
+*Replication Code and Data for: Uniswap Daily Transaction Indices by Network*
+
+
+<blockquote style="color: green;">
+   In line with the web3 ethos, this study provides open-source data and code, ensuring transparency and facilitating replicability. These resources are available at our GitHub repository, underscoring our commitment to decentralized, community-driven research practices. Our Python code in Jupyter Notebook can be run on both the cloud computing platform Google Colab and locally. We are dedicated to promoting diversity and inclusion, not only as research advocates but also in our own research practices.</p>
+</blockquote>
 
 Welcome to the Uniswap Transaction Analysis Repository! This repository provides data and code for replicability, allowing you to analyze transactions on Uniswap across multiple transaction networks, a decentralized exchange protocol built on Ethereum. Gain insights into Uniswap's transaction history and its impact on the decentralized finance (DeFi) ecosystem. 
 
@@ -8,10 +14,6 @@ Full datasets including raw files are available on Harvard Dataverse:
   Chemaya, Nir; Cong, Lin William; Jorgensen, Emma; Liu, Dingyue; Zhang, Luyao, 2023, "Replication Data for: Uniswap Daily Transaction Indices by Network", <a href="https://doi.org/10.7910/DVN/OSOR3P">https://doi.org/10.7910/DVN/OSOR3P</a>, Harvard Dataverse, V1
 </blockquote>
 
-
-<blockquote style="color: green;">
-   In line with the web3 ethos, this study provides open-source data and code, ensuring transparency and facilitating replicability. These resources are available at our GitHub repository, underscoring our commitment to decentralized, community-driven research practices. Our Python code in Jupyter Notebook can be run on both the cloud computing platform Google Colab and locally. We are dedicated to promoting diversity and inclusion, not only as research advocates but also in our own research practices.</p>
-</blockquote>
 
 
 ## Table of Contents
